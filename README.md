@@ -231,4 +231,4 @@ Project Link: [https://github.com/ProTechPh/qodo-vip](https://github.com/ProTech
 
 ---
 
-Made with ❤️ by [Azril Aiman](https://github.com/ProTechPh)
+Made with ❤️ by [ProTech](https://github.com/ProTechPh)
